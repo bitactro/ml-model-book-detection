@@ -1,0 +1,1 @@
+Building app based on Machine Learning model to detech if image is a book's image or not.
